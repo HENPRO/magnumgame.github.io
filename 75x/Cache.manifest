@@ -19,6 +19,9 @@ netcat.js
 payload.html
 ps4debug.js
 WebRTE.js
+historyblocker.js
+enableupdates.js
+disableupdates.js
 Activator\frontend.js
 Activator\index.html
 Activator\payload.js
