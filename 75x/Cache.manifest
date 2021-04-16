@@ -3,9 +3,6 @@ CACHE MANIFEST
 # v1.1 
 # 14/04/2021- 6:53:17,69 
 
-
-CACHE: 
-
 App2usb.js
 BinLoader9021.js
 blob.js
@@ -32,9 +29,3 @@ mira\mira2.js
 webkit-7.50\int64.js
 webkit-7.50\ps4.js
 webkit-7.50\utils.js
-
-FALLBACK: 
-index.html 
-
-NETWORK: 
-* 
