@@ -13,7 +13,7 @@ function consolecheck(){
 			break;
 		
 		default:
-			alert("Vous n'\u00eates pas sur une console compatible!\n                                 .-----------.\n                               /  No Way! \\ \n                              |  *__    __* |\n                              | )/    \\   /    \\( |\n                              |/ \\__/   \\__/ \\|	\n                             /         /^\\         \\ \n                             \\__    '='     __/\n                                  |\\          /|\n                                  |\\ '*xx*' /|\n                                  \\ '*****' / \n                                   `-.__.-'\n\n                   >> Fermer le navigateur <<");
+			alert("Console Anda tidak cocok dengan Host ini!\n                                 .-----------.\n                               /  No Way! \\ \n                              |  *__    __* |\n                              | )/    \\   /    \\( |\n                              |/ \\__/   \\__/ \\|	\n                             /         /^\\         \\ \n                             \\__    '='     __/\n                                  |\\          /|\n                                  |\\ '*xx*' /|\n                                  \\ '*****' / \n                                   `-.__.-'\n\n                   >> Tutup Browser <<");
 			
 			window.stop();
 			
