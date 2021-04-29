@@ -1,8 +1,10 @@
 CACHE MANIFEST 
-# PS-Phive! For PS4 6.72 
+# GoldHEN For PS4 6.72 
 # 25/12/2020-14:54:48.12 
 
 index.html
+checker.js
+checker.html
 files\00_LoaderBL.js
 files\00_LoaderHEN.js
 files\00_LoaderPL.js
@@ -58,3 +60,9 @@ files\img\FanControl.svg
 files\img\ftp.svg
 files\img\hen.svg
 files\img\linux.svg
+
+FALLBACK: 
+index.html
+
+NETWORK: 
+*
