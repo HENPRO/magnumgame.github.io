@@ -1,4 +1,4 @@
-# Goldhen AIO
+# GoldHEN All In One
 This host is only for __GoldHEN__ payload from SiSTR0 and Joonie86  
 
 # Firmware compatible :  
